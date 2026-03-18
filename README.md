@@ -104,3 +104,7 @@ PlanetPioneers is a web and mobile platform that combines environmental educatio
     Promote collaboration and healthy competition
 
     Provide institutions with actionable insights on student engagement
+
+##FLOWCHART:
+    <img width="1322" height="874" alt="image" src="https://github.com/user-attachments/assets/5aa0bfb6-e3f0-43e3-8b48-a6f53b658cc6" />
+
